@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.grid {
+  margin: 30px auto;
+  display: flex;
+  width: 500px;
+  flex-wrap: wrap;
+}
+.grid img {
+  width: 120px;
+  height: 120px;
+  margin: 2px;
+}
